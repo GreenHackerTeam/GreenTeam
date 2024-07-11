@@ -8,3 +8,10 @@ The script offers you several development options:
 5. Brute-forcing passwords
 
 The script is perfect for both beginners in this field and professionals.
+
+The script has been tested on Kali Linux as well as Windows.
+
+INSTALL:
+git clone https://github.com/GreenHackerTeam/GreenTeam
+cd GreenTeam
+python greenteam.py
